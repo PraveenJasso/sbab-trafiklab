@@ -17,7 +17,7 @@ The way to deploy the application is
 * Clone or pull the latest code
 * Run the maven clean command - mvn clean
 * Run the maven intall command - mvn install
-* copy the route-0.0.1-SNAPSHOT.jar file to some other location
+* copy the route-1.0-SNAPSHOT.jar file to some other location
 
 ## Run the application
 
@@ -25,7 +25,7 @@ Application will run on the 8080 port as default.
 
 To run the application. Use the following command,
 
-java -jar <JAR COPIED LOCATION>route-0.0.1-SNAPSHOT.jar
+java -jar <JAR COPIED LOCATION>route-1.0-SNAPSHOT.jar
 
 
 ## Sample APIs
